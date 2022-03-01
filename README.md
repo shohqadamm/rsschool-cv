@@ -1,1 +1,1 @@
-# rsschool-cv
+https://shohqadamm.github.io/rsschool-cv/

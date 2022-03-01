@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Shizuru&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F1E9DB;
+}
+.container{
+    max-width: 70%;
+    margin:auto;
+    margin-top: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #5DB7DE;
+    font-weight: 500;
+}
+ul{
+    list-style: none;
+    padding-left: 30px;
+}
+ul li{
+    margin-top: 15px;
+}
+.container>div{
+    margin-top: 30px;
+}
+
+@media screen and (max-width:768px) {
+    html{
+        font-size: .8rem;
+    }
+}
+
+@media screen and (max-width:568px) {
+    html{
+        font-size: .6rem;
+    }
+}
